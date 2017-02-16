@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21c4a413-32d9-4c9d-9bf9-abd74e30dc86" name="默认" comment="储存Heroku">
+    <list default="true" id="21c4a413-32d9-4c9d-9bf9-abd74e30dc86" name="默认" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -561,7 +561,7 @@
       <workItem from="1486620478742" duration="1475000" />
       <workItem from="1486626146718" duration="12982000" />
       <workItem from="1487057965067" duration="9478000" />
-      <workItem from="1487216092151" duration="1600000" />
+      <workItem from="1487216092151" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="添加雷达图 / 合并Charts.js">
       <created>1487223102805</created>
@@ -577,11 +577,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487223610600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="储存Heroku">
+      <created>1487224058692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487224058692</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64871000" />
+    <option name="totallyTimeSpent" value="64893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
